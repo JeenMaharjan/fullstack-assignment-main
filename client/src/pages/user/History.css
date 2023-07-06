@@ -1,0 +1,10 @@
+/* History.css */
+
+.table-container {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+.table {
+  width: 100%;
+}
